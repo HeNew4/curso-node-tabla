@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Simple programa para multiplicaciones del curso de NODE",
+  "main": "app.js",
+  "scripts": {
+    "base3": "node app --base=3"
+  },
+  "keywords": [],
+  "author": "Angel Maclovio",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
